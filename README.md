@@ -1,1 +1,2 @@
-# learn_with_krish
+# learn-with-krish
+:boom: You can easily start that project node missingNumber.js
